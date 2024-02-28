@@ -1,6 +1,6 @@
 // Q # 10
 
-const arr = Array("Umair", "Waseem", "Husnain", "Kashif"); 
+const arr = ["Umair", "Waseem", "Husnain", "Kashif"]; 
 for (const c of arr) {
     console.log(c);
 } 

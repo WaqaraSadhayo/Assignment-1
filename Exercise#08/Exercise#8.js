@@ -1,3 +1,4 @@
 // Q # 8
-var fav_number = 6;
-console.log("Your Favourite Number is:", fav_number);
+var favorite_number = 6;
+var message1 = "Your Favourite Number is:" + favorite_number;
+console.log(message1);
