@@ -1,3 +1,4 @@
+"use strict";
 // Q # 6
 console.log("Your Addition is:", 5 + 3);
 console.log("Your Subtraction  is:", 10 - 2);

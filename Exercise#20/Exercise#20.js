@@ -1,4 +1,5 @@
-var students = {
+"use strict";
+const students = {
     id: "1",
     fName: "Waqar",
     lName: "Ahmed",

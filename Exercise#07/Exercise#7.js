@@ -1,3 +1,4 @@
+"use strict";
 // Q # 7 
 console.log(5 + 3);
 console.log(4 * 2);
